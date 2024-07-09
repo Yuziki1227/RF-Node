@@ -1,6 +1,6 @@
 ### AEROCAT ROUTE FINDER (NODEJS) VERSION 2.0
-`Last Update:July 10, 2024`
-Known Issues:Not sensitive to NAT TRACK, do not use it to search North Atlantic routes.
+`Last Update:July 10, 2024`<br />
+Known Issues: Not sensitive to NAT TRACK, do not use it to search North Atlantic routes.
 
 ### HOW TO USE THAT?
 All you need to do is install the required extensions and use "node server" to get started!
